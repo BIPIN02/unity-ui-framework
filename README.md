@@ -36,7 +36,7 @@ Attach:
 - UI transitions
 - Localization
 - Theme system
-- 
+  
 ## 🎮 Live Demo
 
 👉 https://your-demo.netlify.app/
