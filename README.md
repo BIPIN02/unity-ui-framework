@@ -30,9 +30,13 @@ Attach:
 - Open Settings
 - Show Toast
 
-## Recommended Improvements
+## Future Improvements
 - Animations
 - Addressables
 - UI transitions
 - Localization
 - Theme system
+  
+## 🎮 Live Demo
+
+👉 https://bipinchandra.netlify.app/
