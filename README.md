@@ -30,7 +30,7 @@ Attach:
 - Open Settings
 - Show Toast
 
-## Recommended Improvements
+## Future Improvements
 - Animations
 - Addressables
 - UI transitions
